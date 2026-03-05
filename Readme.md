@@ -404,4 +404,10 @@ Ai o código rodou corretamente.
 
 Transformamos os dados em uma variável "data_str" string para não dar conflito no Jason
 
+## 05/03/25
+
+Criamos o menu "Download" para alterar o status das músicas já baixadas.
+Implemantamos, também, no loop do bloco "ADD" o salvamento automático de cada música
+inserida, para evitar perda de informação caso tenhamos algum problema.
+
 
